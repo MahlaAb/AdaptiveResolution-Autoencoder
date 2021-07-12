@@ -1,4 +1,4 @@
-# MultiResolution-Autoencoder
+# A Deep Autoencoder with Multi-Resolution Reconstruction Loss for Scale-based Disentanglement of Concepts
 
 ## Preparation:
 Install the required packages from requirements.txt,
