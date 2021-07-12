@@ -1,10 +1,10 @@
 # MultiResolution-Autoencoder
 
-Install the required packages from requirements.txt.
+## Preparation:
+Install the required packages from requirements.txt,
+Place the training images in the dataset folder.
 
-Put your images in the dataset folder.
-
-you can check the folder samples to visualize the reconstruction performance.
-
-## For training 
+## Training :
 `$ python main.py`
+
+You can check the folder samples to visualize the reconstruction performance.
